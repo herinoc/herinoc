@@ -1,6 +1,6 @@
-# 👋 Hi, Bups!
+# Perasaan gak gini. 🗿
 
-![image](https://github.com/user-attachments/assets/2b9f2866-01a1-456c-a0b7-09fc1621d165)
+![image](https://github.com/user-attachments/assets/5dc22ebc-c079-41a0-bf06-8f5c0f15903e)
 
 🛠 About Me:
 --------------------------------------------------------------------------
@@ -9,7 +9,7 @@
 
     Gua yang bersikap sopan karna takut di masa depan di serang AI
     
-    "Ya kan jalan" gak usah clean code gue bisa baca dan gak di pecat.
+    "Ya kan jalan" gak usah clean code yang penting gue bisa baca dan gak di pecat.
 
     "Ngapain bikin web kan di google banyak."
 
